@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.js": "/sliding-puzzle-game/static/js/main.34ba1495.js",
+    "main.js": "/sliding-puzzle-game/static/js/main.1ee9fc6f.js",
     "static/media/image2.jpg": "/sliding-puzzle-game/static/media/image2.a6fe698e85f90f4f9051.jpg",
     "static/media/image4.jpg": "/sliding-puzzle-game/static/media/image4.3de0b0b42ed4c10298b4.jpg",
     "static/media/image3.jpg": "/sliding-puzzle-game/static/media/image3.db6949581a70d231f97b.jpg",
     "static/media/image5.jpg": "/sliding-puzzle-game/static/media/image5.98f51f832e61c2fe9e36.jpg",
     "static/media/image1.jpg": "/sliding-puzzle-game/static/media/image1.30709e137394083423ca.jpg",
+    "static/media/move-sound1.mp4": "/sliding-puzzle-game/static/media/move-sound1.938d7fbb24544a2b4d3d.mp4",
     "index.html": "/sliding-puzzle-game/index.html",
-    "main.34ba1495.js.map": "/sliding-puzzle-game/static/js/main.34ba1495.js.map"
+    "main.1ee9fc6f.js.map": "/sliding-puzzle-game/static/js/main.1ee9fc6f.js.map"
   },
   "entrypoints": [
-    "static/js/main.34ba1495.js"
+    "static/js/main.1ee9fc6f.js"
   ]
 }
