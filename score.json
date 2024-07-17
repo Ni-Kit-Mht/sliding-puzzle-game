@@ -1,7 +1,16 @@
 {
-    "highScore": {
+  "highScores": {
+    "3x3": {
+      "score": 0,
+      "playerName": ""
+    },
+    "4x4": {
+      "score": 0,
+      "playerName": ""
+    },
+    "5x5": {
       "score": 0,
       "playerName": ""
     }
   }
-  
+}
