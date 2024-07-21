@@ -1,0 +1,17 @@
+.rawButton {
+    position: relative;
+    outline-offset: var(--width-separator-lg);
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    padding: 0;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+
+    &:focus-visible,
+    &.focused {
+        outline: var(--width-separator-md) dashed var(--color-separator);
+        outline-offset: var(--width-separator-lg);
+    }
+}
